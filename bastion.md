@@ -9,3 +9,10 @@
 `systemctl start chronyd `
 
 `systemctl enable chronyd`
+
+# 
+`mysql -h acs-database.cfgqfrt0xivm.us-east-1.rds.amazonaws.com -u ACSadmin -p`
+
+` mysql> create Database wordpressdb; `
+
+`mysql> create database toolingdb; `
